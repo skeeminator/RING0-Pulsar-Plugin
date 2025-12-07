@@ -35,7 +35,7 @@
   <strong>📰 JOIN THE TELEGRAM FOR NEWS/UPDATES 📰</strong>
 </p>
 
-                                                  t.me/HopelessLabs
+                                                t.me/HopelessLabs
 
 > Includes plugin files + dependencies, all updates, and lifetime support
 
@@ -171,6 +171,7 @@ Interested? Ready to take your Pulsar setup to the next level?
 <p align="center">
   <strong>Ring0 — Because user-mode is for amateurs.</strong>
 </p>
+
 
 
 

@@ -17,8 +17,15 @@
 </p>
 
 <p align="center">
+  <strong>🔥 FOR PREORDERS CONTACT ON TELEGRAM 🔥</strong>
+</p>
+
+<p align="center">
   <strong>🔥 $500 USD LICENSE — LIFETIME 🔥</strong>
 </p>
+
+                                                               t.me/skeeminator
+
 
 <p align="center">
   <strong>🗓️ EXPECTED RELEASE DATE: 12/2025-01/2026 🗓️</strong>
@@ -28,7 +35,9 @@
   <strong>📰 JOIN THE TELEGRAM FOR NEWS/UPDATES 📰</strong>
 </p>
 
-> Includes plugin files + dependencies, all updates, and lifetime support. Contact t.me/HopelessLabs t.me/skeeminator
+                                                               t.me/HopelessLabs
+
+> Includes plugin files + dependencies, all updates, and lifetime support
 
 ---
 
@@ -162,6 +171,7 @@ Interested? Ready to take your Pulsar setup to the next level?
 <p align="center">
   <strong>Ring0 — Because user-mode is for amateurs.</strong>
 </p>
+
 
 
 

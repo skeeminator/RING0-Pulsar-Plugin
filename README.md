@@ -186,8 +186,9 @@ Interested? Ready to take your Pulsar setup to the next level?
 ---
 
 <p align="center">
-  <strong>Ring0 — Because user-mode is for amateurs.</strong>
+  <strong>Ring0 — Because user-mode fcking sucks.</strong>
 </p>
+
 
 
 

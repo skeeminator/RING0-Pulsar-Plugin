@@ -26,7 +26,7 @@ Ring0 operates at the kernel level, where these limitations don't apply.
 - **Process Hiding**: Processes become invisible to Task Manager, Process Explorer, and all enumeration APIs
 - **SYSTEM Elevation**: Elevate any process to SYSTEM privileges without spawning new processes
 - **PPL Protection**: Protect processes with Antimalware-Light protection level
-- **SYSTEM Shell**: Interactive command shell running as SYSTEM
+- **SYSTEM Shell**: Interactive command shell running as NT AUTHORITY\SYSTEM
 
 ### Security Bypass
 
@@ -95,22 +95,49 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 
 ---
 
-## Availability
+## Pricing
 
-**Lifetime License**: $300 USD
+### 🌟 Sponsor's Edition License — $175 USD *(first 10 customers only)*
 
-**Early Access**: $175 USD (first 10 customers)
+> Sponsors get early access to the Beta plugin (current/ongoing) at a majorly discounted price + permanent 10% off other/future HopelessLabs products. You will also get priority support and priority feedback/suggestions for future updates as well as access to the **RING0 Sponsor's Chat** for priority support, occasional private builds, code snippets, and the **RING0 Beta Community**.
 
-### What's Included
+---
+
+### Lifetime License — $300 USD *(Release price)*
+
+> Base price for basic lifetime access + updates to the RING0 plugin/drivers as well as lifetime support and feedback.
+
+---
+
+### Beta Lifetime License — $350 USD
+
+> Beta access includes early access to updates and experimental features, as well as access to the **RING0 BETA Telegram Community** where members can share and discuss tips, feedback, and help improve RING0 to fit their specific needs better.
+
+---
+
+### Standalone Edition (Coming soon...) — $500 USD
+
+> A fully self-contained application that includes all kernel features without requiring the Pulsar RAT framework. Designed for users who need a universal, independent solution for kernel-level operations. Includes its own C2 panel and client builder.
+
+---
+
+## What's Included
+
 - Ring0 plugin (Server + Client DLLs)
 - Kernel driver (ring0.sys)
 - UEFI bootkit (ring0.efi)
 - Documentation and setup guide
 - Lifetime updates
 
-### Payment
-- Crypto accepted (BTC, ETH, XMR, USDT)
-- Escrow available for verified buyers
+---
+
+## Payment
+
+- **Crypto payments only**: BTC, ETH, XMR, LTC, RVN, USDT, SOL
+  - *ETH, LTC, RVN, XMR preferred*
+- Plugin + drivers sent upon payment
+- **No refunds**
+  - If issues with payment process occur we will troubleshoot however we can. We aren't bankers though — if it's screwed, it's screwed.
 
 ---
 

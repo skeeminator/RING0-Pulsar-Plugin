@@ -97,19 +97,19 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 
 ## Pricing
 
-### 🌟 Sponsor's Edition License — $175 USD *(first 10 customers only)*
+### 🌟 Sponsor's Edition License — $175 USD *(9/10 Sponsor Slots left as of 12/09/2025)*
 
 > Sponsors get early access to the Beta plugin (current/ongoing) at a majorly discounted price + permanent 10% off other/future HopelessLabs products. You will also get priority support and priority feedback/suggestions for future updates as well as access to the **RING0 Sponsor's Chat** for priority support, occasional private builds, code snippets, and the **RING0 Beta Community**.
 
 ---
 
-### Lifetime License — $300 USD *(Release price)*
+### Standard Lifetime License — $250 USD *(Release price)*
 
 > Base price for basic lifetime access + updates to the RING0 plugin/drivers as well as lifetime support and feedback.
 
 ---
 
-### Beta Lifetime License — $350 USD
+### Private Beta Lifetime License — $350 USD
 
 > Beta access includes early access to updates and experimental features, as well as access to the **RING0 BETA Telegram Community** where members can share and discuss tips, feedback, and help improve RING0 to fit their specific needs better.
 
@@ -148,3 +148,4 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 **Channel**: [@hopelesslabs](https://t.me/hopelesslabs)
 
 *DM for questions, demos, or purchase*
+

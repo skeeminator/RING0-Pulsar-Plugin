@@ -135,7 +135,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 
 - **Crypto payments only**: BTC, ETH, XMR, LTC, RVN, USDT, SOL
   - *ETH, LTC, RVN, XMR preferred*
-- Plugin + drivers sent upon payment
+- Plugin + drivers sent upon delivery of payment
 - **No refunds**
   - If issues with payment process occur we will troubleshoot however we can. We aren't bankers though — if it's screwed, it's screwed.
 
@@ -148,3 +148,4 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 **Channel**: [@hopelesslabs](https://t.me/hopelesslabs)
 
 *DM for questions, demos, or purchase*
+

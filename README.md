@@ -1,4 +1,4 @@
-# Ring0 — Kernel Rootkit for Pulsar
+# RINGW0RM — Kernel Rootkit for Pulsar
 
 A kernel-level rootkit plugin that provides true Ring 0 access on Windows x64 systems.
 
@@ -154,6 +154,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 **Channel**: [@hopelesslabs](https://t.me/hopelesslabs)
 
 *DM for questions, demos, or purchase*
+
 
 
 

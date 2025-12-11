@@ -105,7 +105,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 
 ### Lifetime License NO UPDATES — $175 USD ($150 if paying in XMR)
 
-> Exactly the same as the Standard Lifetime License, but without future updates. You receive access to the current release version ONLY. Ideal for one-off engagements or specific version requirements.
+> Exactly the same as the Standard Lifetime License, but without future updates. You receive access to the current release version ONLY. Ideal for those with a tighter budget. You get lifetime access but only for the version/release at the time of purchase.
 
 ---
 
@@ -154,6 +154,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 **Channel**: [@hopelesslabs](https://t.me/hopelesslabs)
 
 *DM for questions, demos, or purchase*
+
 
 
 

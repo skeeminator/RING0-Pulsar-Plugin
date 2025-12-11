@@ -99,6 +99,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 
 ### 🌟 Sponsor's Edition License — $200 USD *(first 10 customers only)* ($175 if paying in XMR)
 
+> Current 9/10 slots available still as of 12/11/2025
 > Sponsors get early access to the Beta plugin (current/ongoing) at a majorly discounted price + permanent 10% off other/future HopelessLabs products. You will also get priority support and priority feedback/suggestions for future updates as well as access to the **RING0 Sponsor's Chat** for priority support, occasional private builds, code snippets, and the **RING0 Beta Community**.
 
 ---
@@ -154,6 +155,7 @@ Ring0 integrates with Pulsar RAT as a plugin. The control panel provides access 
 **Channel**: [@hopelesslabs](https://t.me/hopelesslabs)
 
 *DM for questions, demos, or purchase*
+
 
 
 
